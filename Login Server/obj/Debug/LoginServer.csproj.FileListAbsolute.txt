@@ -1,0 +1,57 @@
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\bin\Debug\LoginServer.exe.config
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\bin\Debug\LoginServer.exe
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\bin\Debug\LoginServer.pdb
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\bin\Debug\Mysql.Data.dll
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\obj\Debug\LoginServer.exe
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\obj\Debug\LoginServer.pdb
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\Login Server\Login Server\bin\Debug\LoginServer.exe.config
+F:\WarRock Emu\Montana\Login Server\Login Server\obj\Debug\LoginServer.exe
+F:\WarRock Emu\Montana\Login Server\Login Server\obj\Debug\LoginServer.pdb
+F:\WarRock Emu\Montana\Login Server\Login Server\bin\Debug\LoginServer.exe
+F:\WarRock Emu\Montana\Login Server\Login Server\bin\Debug\LoginServer.pdb
+F:\WarRock Emu\Montana\Login Server\Login Server\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\Login Server\bin\Debug\LoginServer.exe.config
+F:\WarRock Emu\Montana\Login Server\obj\Debug\LoginServer.exe
+F:\WarRock Emu\Montana\Login Server\obj\Debug\LoginServer.pdb
+F:\WarRock Emu\Montana\Login Server\bin\Debug\LoginServer.exe
+F:\WarRock Emu\Montana\Login Server\bin\Debug\LoginServer.pdb
+F:\WarRock Emu\Montana\Login Server\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Login Server\bin\Debug\LoginServer.exe.config
+C:\Users\Administrator\Desktop\Login Server\obj\Debug\LoginServer.exe
+C:\Users\Administrator\Desktop\Login Server\obj\Debug\LoginServer.pdb
+C:\Users\Administrator\Desktop\Login Server\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Login Server\bin\Debug\LoginServer.exe
+C:\Users\Administrator\Desktop\Login Server\bin\Debug\LoginServer.pdb
+C:\Users\Administrator\Desktop\Login Server\bin\Debug\MySql.Data.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\LoginServer.exe.config
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\LoginServer.exe
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\LoginServer.pdb
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\MySql.Data.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\obj\Debug\LoginServer.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\toxiiccore\Login Server\obj\Debug\LoginServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Desktop\toxiiccore\Login Server\obj\Debug\LoginServer.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\toxiiccore\Login Server\obj\Debug\LoginServer.csproj.CopyComplete
+C:\Users\andre\Desktop\toxiiccore\Login Server\obj\Debug\LoginServer.exe
+C:\Users\andre\Desktop\toxiiccore\Login Server\obj\Debug\LoginServer.pdb
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\Google.Protobuf.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\System.Buffers.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\System.Memory.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\ZstdNet.dll
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\Google.Protobuf.pdb
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\Google.Protobuf.xml
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\MySql.Data.xml
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\System.Buffers.xml
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\System.Memory.xml
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andre\Desktop\toxiiccore\Login Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
